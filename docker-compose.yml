@@ -1,6 +1,0 @@
-services:
-  mcp-node-youtube:
-    build: .
-    image: mcp-node-youtube
-    stdin_open: true
-    tty: false
