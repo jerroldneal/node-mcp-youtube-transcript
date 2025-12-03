@@ -1,0 +1,22 @@
+{
+  "name": "mcp-youtube-transcript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "@modelcontextprotocol/sdk": "^1.23.0",
+    "puppeteer": "^24.31.0",
+    "youtube-dl-exec": "^3.0.27",
+    "youtube-transcript": "^1.2.1",
+    "youtubei.js": "^16.0.1",
+    "zod": "^4.1.13"
+  }
+}
